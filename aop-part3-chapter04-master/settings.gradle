@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "aop-part3-chapter4"
